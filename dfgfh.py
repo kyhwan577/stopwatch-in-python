@@ -1,6 +1,6 @@
 from tkinter import *
 import time
-from pygame import mixer
+# from pygame import mixer
 import datetime
 
 
